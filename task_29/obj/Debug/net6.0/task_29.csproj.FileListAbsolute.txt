@@ -1,0 +1,15 @@
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\bin\Debug\net6.0\task_29.exe
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\bin\Debug\net6.0\task_29.deps.json
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\bin\Debug\net6.0\task_29.runtimeconfig.json
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\bin\Debug\net6.0\task_29.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\bin\Debug\net6.0\task_29.pdb
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.csproj.AssemblyReference.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.AssemblyInfoInputs.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.AssemblyInfo.cs
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.csproj.CoreCompileInputs.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\refint\task_29.dll
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.pdb
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\task_29.genruntimeconfig.cache
+C:\ya\YandexDisk\!обучение geekbrains\9.c#\dz_s4\task_29\obj\Debug\net6.0\ref\task_29.dll
