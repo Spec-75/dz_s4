@@ -4,21 +4,13 @@
 // 82 -> 10
 // 9012 -> 12
 
-Console.WriteLine("Введите число");
-string number = Console.ReadLine();
-//int sum = 0;
-string[] arr = number;
-void PrintArray(string[] array)
+int number = Convert.ToInt32(Console.ReadLine());
+int digit = 0;
+int sumDigit = 0;
+while (number != 0)
 {
-    int count = array.Length;
-    for (int i = 0; i < count; i++)
-    {
-        Console.Write($"{array[i]}");
-    }
+    digit = number % 10;
+    sumDigit +=digit;
+    number /= 10;
 }
-PrintArray(number);
-// for (int i = 1; i<=number; i++)
-// {
-//     sum += i;
-// }
-// Console.WriteLine($"Cумма чисел: {sum}");
+Console.WriteLine(sumDigit);
